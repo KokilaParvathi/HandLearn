@@ -159,7 +159,7 @@ export default function LearningPlatform() {
       icon: <Hand className="w-6 h-6" />,
       color: 'from-emerald-500 to-teal-600',
       progress: 85,
-      youtubeVideo: 'https://www.youtube.com/watch?v=v1desDduz5M',
+      youtubeVideo: 'https://www.youtube.com/embed/v1desDduz5M?si=zMM41YuCe9THz29A',
       images: ['https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800'],
       rating: 4.8,
       enrolled: true
