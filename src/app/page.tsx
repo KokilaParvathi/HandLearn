@@ -159,7 +159,7 @@ export default function LearningPlatform() {
       icon: <Hand className="w-6 h-6" />,
       color: 'from-emerald-500 to-teal-600',
       progress: 85,
-      youtubeVideo: 'https://www.youtube.com/embed/lVhFo4kQpX8',
+      youtubeVideo: 'https://www.youtube.com/watch?v=v1desDduz5M',
       images: ['https://images.unsplash.com/photo-1524178232363-1fb2b075b655?w=800'],
       rating: 4.8,
       enrolled: true
@@ -176,7 +176,7 @@ export default function LearningPlatform() {
       icon: <Sparkles className="w-6 h-6" />,
       color: 'from-blue-500 to-cyan-600',
       progress: 100,
-      youtubeVideo: 'https://www.youtube.com/embed/pS4YB7J2EJk',
+      youtubeVideo: 'https://www.youtube.com/watch?v=0LIV0miyxR8',
       images: ['https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800'],
       rating: 4.9,
       enrolled: true
@@ -193,7 +193,7 @@ export default function LearningPlatform() {
       icon: <MessageSquare className="w-6 h-6" />,
       color: 'from-purple-500 to-pink-600',
       progress: 65,
-      youtubeVideo: 'https://www.youtube.com/embed/vV5rT8J6hWg',
+      youtubeVideo: 'https://www.youtube.com/watch?v=lC_DCrDJSeQ',
       images: ['https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=800'],
       rating: 4.7,
       enrolled: true
@@ -210,7 +210,7 @@ export default function LearningPlatform() {
       icon: <Globe className="w-6 h-6" />,
       color: 'from-orange-500 to-red-600',
       progress: 45,
-      youtubeVideo: 'https://www.youtube.com/embed/7M5gqFqBqZM',
+      youtubeVideo: 'https://www.youtube.com/watch?v=OK7ppVdau8M',
       images: ['https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=800'],
       rating: 4.6,
       enrolled: true
